@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\bin\Debug\AMCU Gueuing System.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\bin\Debug\AMCU Gueuing System.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\obj\x86\Debug\AMCU_Gueuing_System.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\obj\x86\Debug\AMCU Gueuing System.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\obj\x86\Debug\AMCU Gueuing System.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\obj\x86\Debug\AMCU Gueuing System.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\obj\x86\Debug\GueuingSystem.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\obj\x86\Debug\GueuingSystem.frmLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\obj\x86\Debug\AMCU Gueuing System.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AMCU Gueuing System\AMCU Gueuing System\bin\Debug\AMCU Gueuing System.exe.config
